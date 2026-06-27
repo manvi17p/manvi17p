@@ -7,10 +7,10 @@
 ## 👩‍💻 About Me
 
 - 💼 Software Engineer @ Accenture
-- 🌱 Currently learning Java, Spring Boot & Angular
-- 💻 Interested in Full Stack Development
+- 🌱 Currently learning Python and AI/ML
+- 💻 Interested in AI/ML Engineer
 - 📚 Solving DSA problems regularly
-- 🎯 Goal: Become a Full Stack Java Developer
+- 🎯 Goal: Become a AI/ML Engineer
 
 ## 🛠️ Tech Stack
 

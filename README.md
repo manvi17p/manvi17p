@@ -15,11 +15,6 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,angular,js,ts,html,css,puthon,mysql,mongodb,node.js,express.js,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,angular,js,ts,html,css,python,mysql,mongodb,nodejs,express,git,github,postman,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=manvi17p&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi17p&layout=compact&theme=tokyonight)

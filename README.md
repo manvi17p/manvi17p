@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,angular,html,css,js,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,angular,js,ts,html,css,puthon,mysql,mongodb,node.js,express.js,git,github,postman,vscode" />
 </p>
 
 ## 📊 GitHub Stats
@@ -23,9 +23,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=manvi17p&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi17p&layout=compact&theme=tokyonight)
-
-## 🌐 Connect With Me
-
-[LinkedIn](www.linkedin.com/in/manvi-pareek-1b5184263)
-Email: manvipareek2003@gmail.com
-Phone no: 8949290309
